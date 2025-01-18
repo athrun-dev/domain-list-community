@@ -207,6 +207,7 @@ include:geetest
 include:hanyi
 include:jianshu
 include:jinshuju
+include:jlc
 include:keep
 include:lagou
 include:ldmnq
@@ -273,6 +274,7 @@ include:tongfang
 include:vivo
 include:xiaomi
 include:xunlei
+include:ymtc
 include:zte
 
 51togic.com # 泰捷WEBOX
@@ -362,6 +364,8 @@ include:hupun
 include:aisiku
 # 上海圆贝信息科技有限公司
 include:yuanbei
+# 秋子酱科技
+include:akiko
 
 
 # The following domains are carried over from geosite:cn.
