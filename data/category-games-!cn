@@ -12,6 +12,7 @@ include:hoyoverse
 include:illusion
 include:itchio
 include:lowiro
+include:modrinth
 include:nexon
 include:nikke
 include:nintendo
@@ -23,12 +24,14 @@ include:playstation
 include:projectsekai
 include:purikonejp
 include:riot
+include:roblox
 include:rockstar
 include:snk
 include:steam
 include:steamunlocked
 include:supercell
 include:ubisoft
+include:wbgames
 include:xbox
 include:ynoproject
 
@@ -39,10 +42,12 @@ fanatical.com
 fitgirl-repacks.site
 game-repack.site
 humblebundle.com
+joinsquad.com
 loverslab.com
 minecraft.wiki
-modrinth.com
 nexusmods.com
+offworldindustries.com
+offworldindustries.net
 papermc.io
 planetminecraft.com
 prismlauncher.org

@@ -1,6 +1,8 @@
 # Russian websites
 
 # Russian TLDs
+moscow
+tatar
 ru
 su
 xn--80adxhks
@@ -11,10 +13,15 @@ xn--d1acj3b
 xn--p1acf
 xn--p1ai
 
+ru.com
+ru.net
+
 include:category-gov-ru
 
-include:mailru
-include:ok
+include:habr
+include:mailru-group
+include:okko
 include:ozon
-include:vk
+include:rutube
+include:x5
 include:yandex
